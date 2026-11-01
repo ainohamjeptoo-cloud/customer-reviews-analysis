@@ -16,3 +16,9 @@ nltk_data/
 Thumbs.db
 .vscode/
 .idea/
+*.npz
+logs/
+desktop.ini
+*.egg-info/
+build/
+dist/
